@@ -1,0 +1,14 @@
+- source: project
+  netlify:
+    - id: 2c3753a2-bbf4-46ee-ba41-01050824ad38
+      url: 'https://jovial-dusk-fecfe6.netlify.app'
+    - id: 4e218f2c-04ab-44ec-bcab-b1a84ca5aa43
+      url: 'https://lighthearted-narwhal-6c0d8f.netlify.app'
+  connect:
+    - id: 7d710dd5-598a-4ad5-8a5b-c1a0bed24ce4
+      url: >-
+        https://beta.rstudioconnect.com/content/7d710dd5-598a-4ad5-8a5b-c1a0bed24ce4/
+    - id: c414ff4e-0b90-4521-a5f7-f45479340357
+      url: >-
+        https://beta.rstudioconnect.com/content/c414ff4e-0b90-4521-a5f7-f45479340357/
+
